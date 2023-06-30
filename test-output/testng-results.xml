@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-30T17:44:00 IST" name="Default suite" finished-at="2023-06-30T17:44:17 IST" duration-ms="16810">
+    <groups>
+    </groups>
+    <test started-at="2023-06-30T17:44:00 IST" name="Default test" finished-at="2023-06-30T17:44:17 IST" duration-ms="16810">
+      <class name="test1.Wishtst">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test1.Wishtst@1cf6d1be]" started-at="2023-06-30T17:44:00 IST" name="setUp" finished-at="2023-06-30T17:44:05 IST" duration-ms="4707" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="loadUrl()[pri:0, instance:test1.Wishtst@1cf6d1be]" started-at="2023-06-30T17:44:05 IST" name="loadUrl" finished-at="2023-06-30T17:44:11 IST" duration-ms="5958" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadUrl -->
+        <test-method signature="testwish()[pri:0, instance:test1.Wishtst@1cf6d1be]" started-at="2023-06-30T17:44:11 IST" name="testwish" finished-at="2023-06-30T17:44:17 IST" duration-ms="5815" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testwish -->
+        <test-method is-config="true" signature="afterMeth()[pri:0, instance:test1.Wishtst@1cf6d1be]" started-at="2023-06-30T17:44:17 IST" name="afterMeth" finished-at="2023-06-30T17:44:17 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMeth -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test1.Wishtst@1cf6d1be]" started-at="2023-06-30T17:44:17 IST" name="tearDown" finished-at="2023-06-30T17:44:17 IST" duration-ms="244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test1.Wishtst -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
